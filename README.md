@@ -1,14 +1,27 @@
 <p align="center">
- <img width="85%" />
+ <img width="100%" src="torch_demo/logo.PNG"/>
 </p>
 
-[pypi-image]: https://badge.fury.io/py/torch-geometric-temporal.svg
-[pypi-url]: https://pypi.python.org/pypi/torch-geometric-temporal
-[docs-image]: https://readthedocs.org/projects/pytorch-geometric-temporal/badge/?version=latest
-[docs-url]: https://pytorch-geometric-temporal.readthedocs.io/en/latest/?badge=latest
-[![PyPI Version][pypi-image]][pypi-url]
-[![Docs Status][docs-image]][docs-url]
-[![Arxiv](https://img.shields.io/badge/ArXiv-2104.07788-orange.svg)](https://arxiv.org/abs/2104.07788)
+<p align="center">
+   <a href="https://github.com/facebookresearch/ParlAI/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="CircleCI" />
+  </a>
+   <a href="https://pypi.org/project/parlai/">
+    <img src="https://img.shields.io/pypi/v/parlai?color=blue&label=release" alt="CircleCI" />
+  </a>
+    <a href="https://circleci.com/gh/facebookresearch/ParlAI/tree/main">
+    <img src="https://img.shields.io/circleci/build/github/facebookresearch/ParlAI/main" alt="Coverage" />
+  </a>
+    <a href="https://codecov.io/gh/facebookresearch/ParlAI">
+    <img src="https://img.shields.io/codecov/c/github/facebookresearch/ParlAI" alt="GitHub contributors" />
+  </a>
+    <a href="https://img.shields.io/github/contributors/facebookresearch/ParlAI">
+    <img src="https://img.shields.io/github/contributors/facebookresearch/ParlAI"/>
+  </a>
+    <a href="https://twitter.com/parlai_parley">
+    <img src="https://img.shields.io/twitter/follow/parlai_parley?label=Twitter&style=social" alt="Twitter" />
+  </a>
+ </p>
 
 # 示例文章：Google 搜索的即时自动补全功能究竟是如何“工作”的
 
