@@ -1,5 +1,5 @@
 <p align="center">
- <img width="85%" src="torch_demo/logo.PNG" />
+ <img width="85%" />
 </p>
 
 [pypi-image]: https://badge.fury.io/py/torch-geometric-temporal.svg
