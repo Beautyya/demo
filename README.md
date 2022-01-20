@@ -3,23 +3,20 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/facebookresearch/ParlAI/blob/main/LICENSE">
+   <a href="https://github.com/benchenas/BenchENA/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="CircleCI" />
   </a>
-   <a href="https://pypi.org/project/parlai/">
-    <img src="https://img.shields.io/pypi/v/parlai?color=blue&label=release" alt="CircleCI" />
+   <a href="https://pypi.org/project/benchENAS/1.1.1/">
+    <img src="https://img.shields.io/pypi/v/benchENAS?color=blue&label=pypi" alt="CircleCI" />
   </a>
-    <a href="https://circleci.com/gh/facebookresearch/ParlAI/tree/main">
-    <img src="https://img.shields.io/circleci/build/github/facebookresearch/ParlAI/main" alt="Coverage" />
+    <a href="https://github.com/benchenas/BenchENA/actions">
+    <img src="https://github.com/benchenas/BenchENA/workflows/CI/badge.svg" alt="Coverage" />
   </a>
-    <a href="https://codecov.io/gh/facebookresearch/ParlAI">
-    <img src="https://img.shields.io/codecov/c/github/facebookresearch/ParlAI" alt="GitHub contributors" />
+    <a href="https://benchenas.com/api/index.html">
+    <img src="https://img.shields.io/website/http/benchenas.com/api/index.html.svg?down_color=red&down_message=offline&up_message=online" />
   </a>
-    <a href="https://img.shields.io/github/contributors/facebookresearch/ParlAI">
-    <img src="https://img.shields.io/github/contributors/facebookresearch/ParlAI"/>
-  </a>
-    <a href="https://twitter.com/parlai_parley">
-    <img src="https://img.shields.io/twitter/follow/parlai_parley?label=Twitter&style=social" alt="Twitter" />
+    <a href="https://arxiv.org/abs/2108.03856">
+    <img src="https://img.shields.io/badge/ArXiv-2108.03856-orange.svg"/>
   </a>
  </p>
 
