@@ -1,3 +1,7 @@
+<p align="center">
+ <img width="85%" src="test_domo/logo.png" />
+</p>
+
 [pypi-image]: https://badge.fury.io/py/torch-geometric-temporal.svg
 [pypi-url]: https://pypi.python.org/pypi/torch-geometric-temporal
 [docs-image]: https://readthedocs.org/projects/pytorch-geometric-temporal/badge/?version=latest
